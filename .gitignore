@@ -1,0 +1,16 @@
+# Editor project settings
+.idea/
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Byte-compiled files
+__pycache__/
+
+# Documentation
+docs/build/
